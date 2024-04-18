@@ -104,15 +104,15 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ArmandKapaj
-    label: Follow me on Twitter
-    display:
-      header: true
+    #label: Follow me on Twitter
+    #display:
+    #  header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=ZQBzhsUAAAAJ
-  - icon: github
+  - icon: researchgate
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.researchgate.net/profile/Armand-Kapaj
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/armandkapaj/
