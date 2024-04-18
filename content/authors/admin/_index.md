@@ -42,6 +42,7 @@ education:
   courses:
     - course: PhD in Geography
       institution: University of Zurich
+      url: https://uzh.ch/en.html
       year: 2023
     - course: MSc in Cartography
       institution: Technical University of Munich, Technical University of Vienna, Technical University of Dresden, University of Twente
