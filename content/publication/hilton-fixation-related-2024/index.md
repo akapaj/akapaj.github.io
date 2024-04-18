@@ -9,7 +9,7 @@ date: '2024-01-01'
 publishDate: '2024-04-18T15:19:26.814335Z'
 publication_types:
 - article-journal
-publication: '*Atten Percept Psychophys*'
+publication: '*Attention, Perception, & Psychophysics*'
 doi: 10.3758/s13414-024-02864-z
 abstract: An often-proposed enhancement for mobile maps to aid assisted navigation
   is the presentation of landmark information, yet understanding of the manner in
