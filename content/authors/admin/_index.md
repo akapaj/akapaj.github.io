@@ -1,28 +1,32 @@
 ---
 # Display name
-title: 吳健雄
+title: Armand Kapaj
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Armand 
+last_name: Kapaj
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧭
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Zurich (UZH)|Department of Geography
+    url: https://www.geo.uzh.ch/en/
+  - name:  Geographic Information Visualization and Analysis (GIVA)
+    url: https://www.geo.uzh.ch/en/units/giva
+  - name: Digital Society Initiative
+    url: https://www.dsi.uzh.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
