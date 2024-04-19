@@ -234,8 +234,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      # text: |-
+      #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: armand.kapaj@geo.uzh.ch
       phone: +41 44 63 55152
@@ -243,7 +243,7 @@ sections:
       address:
         street: Winterthurerstrasse 190
         city: Zurich
-        region: Zurich
+        #region: Zurich
         postcode: '8057'
         country: Switzewrland
         country_code: CH
