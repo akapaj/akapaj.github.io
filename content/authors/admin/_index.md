@@ -33,9 +33,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cartography and GIScience
+  - Spatial Navigation and Cognition
+  - Human Navigation Behavior
+  - Visual Attention
+  - Cognitive Load
+  - Experimental Design
 
 # Education to show in About widget
 education:
@@ -44,7 +47,7 @@ education:
       institution: University of Zurich
       year: 2023
     - course: MSc in Cartography
-      institution: TU Munich, TU Vienna, TU Dresden, University of Twente
+      institution: Joint degree from TU Munich, TU Vienna, TU Dresden, and University of Twente
       year: 2018
     - course: MSc in Geography
       institution: University of Tirana
