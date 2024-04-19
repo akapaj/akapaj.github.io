@@ -253,8 +253,8 @@ sections:
       #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '47.39658367353664'
+        longitude: '8.549360116387971'  
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
@@ -273,7 +273,7 @@ sections:
       # Email form provider
       form:
         provider: netlify
-        formspree:
+        formspree: armand.kapaj@geo.uzh.ch
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
