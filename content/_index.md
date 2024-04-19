@@ -273,7 +273,7 @@ sections:
       # Email form provider
       form:
         provider: netlify
-        formspree: 
+        formspree: https://formspree.io/f/mwkgalgo
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
