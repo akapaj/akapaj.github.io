@@ -272,10 +272,10 @@ sections:
       autolink: true
       # Email form provider
       form:
-        provider: netlify
-        #formspree: 
-          #id:
-        netlify:
+        provider: formspree
+        formspree: 
+          id: https://formspree.io/f/mbjnblep
+        #netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
