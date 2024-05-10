@@ -275,7 +275,7 @@ sections:
         provider: netlify
         formspree: 
           id:
-        netlify:
+        netlify: https://app.netlify.com/sites/akapaj/forms
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
