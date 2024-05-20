@@ -39,12 +39,8 @@ header:
     align: r
     show_logo: true
     show_language: false
-    button:
-      enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
-    #show_day_night: true
-    show_theme_chooser: true
+    show_day_night: true
+    #show_theme_chooser: true
     show_search: true
     highlight_active_link: true
 
@@ -62,8 +58,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '02 Jan 2006'
+  time_format: '15:04'
   address_format: en-us
 
 # Site features
