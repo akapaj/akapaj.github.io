@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  mode: dark
-  mode: light
-  #theme_day: minimal
-  #theme_night: minimal
+  #mode: dark
+  #mode: light
+  theme_day: minimal
+  theme_night: minimal
   font: minimal
   font_size: M
 
@@ -39,6 +39,10 @@ header:
     align: r
     show_logo: true
     show_language: false
+    button:
+      enable: true
+      text: "Get Started"
+      url: "https://hugoblox.com/templates/"
     #show_day_night: true
     show_theme_chooser: true
     show_search: true
