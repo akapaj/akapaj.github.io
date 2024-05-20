@@ -47,7 +47,7 @@ education:
       institution: University of Zurich
       year: 2023
     - course: MSc in Cartography
-      institution: Joint degree from TU Munich, TU Vienna, TU Dresden, and University of Twente
+      institution: TU Munich, TU Vienna, TU Dresden, and University of Twente
       year: 2018
     - course: MSc in Geography
       institution: University of Tirana
