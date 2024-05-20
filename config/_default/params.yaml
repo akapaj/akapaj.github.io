@@ -20,15 +20,15 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Senior Researcher at University of Zurich'
+    twitter: 'ArmandKapaj'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: 'google-site-verification=R-GXgcyeJRIFExlNUY4ERWWMv4tESCc8rYrj2-pDc5I'
     baidu: ''
 
 # Site header
