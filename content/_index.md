@@ -69,12 +69,12 @@ sections:
           location: Zurich
           date_start: '2024-01-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          # description: |2-
+          #     Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
