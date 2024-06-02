@@ -13,6 +13,7 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
+    target: _blank
   - name: Talks
     url: '#talks'
     weight: 40
