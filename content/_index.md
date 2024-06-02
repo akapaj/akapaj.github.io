@@ -64,8 +64,8 @@ sections:
       items:
         - title: Senior Scientist
           company: University of Zurich
-          company_url: ''
-          company_logo: uzh
+          company_url: 'https://www.uzh.ch/en.html'
+          company_logo: uzh-white
           location: Zurich
           date_start: '2024-01-01'
           date_end: ''
