@@ -75,14 +75,14 @@ sections:
           #     * Analysing
           #     * Modelling
           #     * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Postdoctoral Researcher
+          company: University of Zurich
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: uzh-white
+          location: Zurich
+          date_start: '2023-08-01'
+          date_end: '2023-12-31'
+          #description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   # - block: accomplishments
