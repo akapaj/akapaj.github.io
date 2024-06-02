@@ -77,7 +77,7 @@ sections:
           #     * Deploying
         - title: Postdoctoral Researcher
           company: University of Zurich
-          company_url: ''
+          company_url: 'https://www.uzh.ch/en.html'
           company_logo: uzh-white
           location: Zurich
           date_start: '2023-08-01'
