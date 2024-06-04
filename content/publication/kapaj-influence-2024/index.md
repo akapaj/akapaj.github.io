@@ -2,15 +2,15 @@
 title: The influence of landmark visualization style on task performance, visual attention,
   and spatial learning in a real-world navigation task
 authors:
-- A. Kapaj
-- C. Hilton
-- S. Lanini-Maggi
-- S. I. Fabrikant
+- Armand Kapaj
+- Christopher Hilton
+- Sara Lanini-Maggi
+- Sara I. Fabrikant
 date: '2024-01-01'
 publishDate: '2024-04-18T15:19:26.807369Z'
 publication_types:
 - article-journal
-publication: '*Spat Cogn Comput*'
+publication: '*Spatial Cognition & Computation*'
 doi: 10.1080/13875868.2024.2328099
 abstract: Depicting landmarks on mobile maps is an increasingly popular countermeasure
   to the negative effect that navigation aids have on spatial learning – landmarks
