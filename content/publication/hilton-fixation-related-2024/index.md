@@ -2,9 +2,9 @@
 title: 'Fixation-related potentials during mobile map assisted navigation in the real
   world: The effect of landmark visualization style'
 authors:
-- C. Hilton
-- A. Kapaj
-- S. I. Fabrikant
+- Christopher Hilton
+- Armand Kapaj
+- Sara I. Fabrikant
 date: '2024-01-01'
 publishDate: '2024-04-18T15:19:26.814335Z'
 publication_types:
