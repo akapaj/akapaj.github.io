@@ -46,7 +46,7 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-links:
-- name: URL
-  url: https://doi.org/10.3758/s13414-024-02864-z
+# links:
+# - name: URL
+#   url: https://doi.org/10.3758/s13414-024-02864-z
 ---
