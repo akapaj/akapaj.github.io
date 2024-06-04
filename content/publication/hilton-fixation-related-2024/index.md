@@ -32,6 +32,10 @@ abstract: An often-proposed enhancement for mobile maps to aid assisted navigati
   seen on a map is facilitated by more realistic map display, while low-level perceptual
   processing of landmarks and recall of associated information are unaffected by map
   visualization style.
+
+# Summary. An optional shortened abstract.
+summary: The findings indicate that the cognitive matching process between landmarks seen in the environment and those previously seen on a map is facilitated by more realistic map display, while low-level perceptual processing of landmarks and recall of associated information are unaffected by map visualization style.
+
 tags:
 - Spatial navigation
 - Navigation assistance
