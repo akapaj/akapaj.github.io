@@ -83,6 +83,14 @@ sections:
           date_start: '2023-08-01'
           date_end: '2023-12-31'
           #description: Taught electronic engineering and researched semiconductor physics.
+        - title: PhD Student Researcher
+          company: University of Zurich
+          company_url: 'https://www.uzh.ch/en.html'
+          company_logo: uzh-white
+          location: Zurich
+          date_start: '2019-02-01'
+          date_end: '2023-07-31'
+          #description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   # - block: accomplishments
