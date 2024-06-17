@@ -34,11 +34,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Cartography and GIScience
-  - Spatial Navigation and Cognition
+  - Spatial Cognition
   - Human Navigation Behavior
   - Visual Attention
   - Cognitive Load
-  - Experimental Design
 
 # Education to show in About widget
 education:
