@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  mode: dark
+  #mode: dark
   #mode: light
   #theme_day: minimal
-  #theme_night: minimal
+  theme_night: minimal
   font: minimal
   font_size: s
 
