@@ -10,8 +10,8 @@ appearance:
   #mode: light
   #theme_day: minimal
   #theme_night: minimal
-  font: mr-robot
-  font_size: s
+  font: minimal
+  font_size: m
 
 # SEO
 
