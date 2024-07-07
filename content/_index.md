@@ -42,6 +42,7 @@ sections:
       title: Short bio
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      text: ""
       button:
         text: Download CV
         url: uploads/cv_akapaj.pdf
