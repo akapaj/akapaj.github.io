@@ -55,6 +55,8 @@ education:
       institution: University of Tirana
       year: 2008
 
+{{% staticref "uploads/cv_akapaj.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 # skills:
