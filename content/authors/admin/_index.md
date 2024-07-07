@@ -124,10 +124,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/cv_akapaj.pdf
-  
-  button:
-        text: Download CV
-        url: uploads/cv_akapaj.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
