@@ -32,9 +32,14 @@ sections:
         <!--GitHub Button JS-->
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
+      css_class: dark
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
+        color: black
+    
+    #design:
+      #background:
+        #gradient_end: '#1976d2'
+        #gradient_start: '#004ba0'
         #text_color_light: true
   - block: about.biography
     id: about
