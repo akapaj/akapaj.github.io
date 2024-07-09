@@ -10,7 +10,7 @@ appearance:
   # color: blue
   theme_day: mr_robot
   theme_night: mr_robot
-  font: cyberpunk
+  font: classic
   font_size: s
 
 # SEO
