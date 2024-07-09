@@ -40,6 +40,10 @@ header:
     blox: "navbar"
     align: r
     show_logo: true
+    button:
+      enable: true
+      text: "Get Started"
+      url: "https://hugoblox.com/templates/"
     show_language: false
     #show_day_night: true
     show_theme_chooser: true
