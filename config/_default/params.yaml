@@ -6,10 +6,8 @@
 # Appearance
 
 appearance:
-  mode: light
-  color: blue
   #theme_day: minimal
-  #theme_night: minimal
+  theme_night: minimal
   font: minimal
   font_size: m
 
@@ -18,9 +16,9 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: 'University'
-    org_name: 'University of Zurich'
-    description: 'Senior Scientist at University of Zurich'
+    local_business_type: ''
+    org_name: ''
+    description: 'Senior Scientist at University of Zurich.'
     twitter: 'ArmandKapaj'
   analytics:
     google_analytics: ''
@@ -36,12 +34,12 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
+    #blox: "navbar"
     align: r
     #fixed_to_top: true
     show_logo: true
     show_language: false
-    #show_day_night: true
+    show_day_night: true
     show_theme_chooser: true
     show_search: true
     highlight_active_link: true
@@ -52,7 +50,7 @@ footer:
   copyright:
     notice: '© {year} Armand Kapaj. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -68,8 +66,8 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: light
-    theme_dark: dark
+    theme_light: github-light
+    theme_dark: github-dark
   math:
     enable: false
   privacy_pack:
