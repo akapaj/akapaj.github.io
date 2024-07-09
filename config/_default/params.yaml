@@ -9,8 +9,8 @@ appearance:
   #mode: dark
   #color: blue
   #theme: mr_robot
-  theme_day: mr_robot
-  theme_night: mr_robot
+  theme_day: minimal
+  theme_night: minimal
   font: minimal
   font_size: m
 
