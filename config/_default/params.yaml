@@ -11,7 +11,7 @@ appearance:
   theme_day: mr_robot
   theme_night: mr_robot
   font: minimal
-  font_size: s
+  font_size: m
 
 # SEO
 
