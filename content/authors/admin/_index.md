@@ -120,6 +120,9 @@ social:
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Armand-Kapaj
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-1785-7348
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -135,4 +138,4 @@ highlight_name: true
 I am a Senior Scientist at the Geographic Information Visualization and Analysis (GIVA) research group at the GISscience Center of the Department of Geography at the University of Zurich. My research interests lie in cartography, GIScience, spatial cognition, visual attention and perception, and cognitive science. Specifically, I am interested in investigating how mobile maps influence humans' spatial navigation behavior, spatial learning, visual attention, and neural activity during map-assisted navigation tasks. My teaching interests include cartography, geographic information visualization, and GIScience.
 {style="text-align: justify;"}
 
-{{% staticref "uploads/resume.pdf" "newtab" %}}Download CV{style="font-weight: bold;"}{{% /staticref %}}
+{{% staticref "uploads/resume.pdf" "newtab" %}}Download CV {style="font-weight: bold;"}{{% /staticref %}}
