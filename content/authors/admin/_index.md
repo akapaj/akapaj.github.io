@@ -11,7 +11,7 @@ last_name: Kapaj
 
 # Status emoji
 status:
-  icon: 🧭
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,23 +21,25 @@ role: Senior Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Zurich (UZH) | Department of Geography
+  - name: University of Zurich (UZH)
+    url: https://www.uzh.ch/en.html
+  - name: Department of Geography
     url: https://www.geo.uzh.ch/en/
-  - name:  Geographic Information Visualization and Analysis (GIVA)
+  - name: GIVA Research Group
     url: https://www.geo.uzh.ch/en/units/giva
   - name: Digital Society Initiative
     url: https://www.dsi.uzh.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Cartography/GIScience, Spatial Cognition, Visual Attention and Cognitive Science.
 
 # Interests to show in About widget
-interests:
-  - Cartography and GIScience
-  - Spatial Cognition
-  - Human Navigation Behavior
-  - Visual Attention
-  - Cognitive Load
+#interests:
+  #- Cartography and GIScience
+  #- Spatial Cognition
+  #- Human Navigation Behavior
+  #- Visual Attention
+  #- Cognitive Load
 
 # Education to show in About widget
 education:
@@ -109,15 +111,16 @@ social:
     #label: Follow me on Twitter
     #display:
     #  header: true
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/armandkapaj/
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=ZQBzhsUAAAAJ
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Armand-Kapaj
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/armandkapaj/
+
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -132,4 +135,4 @@ highlight_name: true
 I am a Senior Scientist at the Department of Geography of the Univeristy of Zurich. My research interests include spatial cognition, cartography, GIScience and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
 
-{{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+{{% staticref "uploads/resume.pdf" "newtab" %}}Download CV{{% /staticref %}}
