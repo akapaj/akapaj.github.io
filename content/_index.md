@@ -256,7 +256,7 @@ sections:
         postcode: '8057'
         country: Switzewrland
         country_code: CH
-      directions: Enter Building Y-25 and take the stairs/elevator to L-Floor, office 88 (Y25-L88)
+      directions: Enter Building Y-25 and take the stairs/elevator to the L-Floor, office 88 (Y25-L88)
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
