@@ -31,11 +31,7 @@ sections:
         <div class="mb-3"></div>
         <!--GitHub Button JS-->
         <script async defer src="https://buttons.github.io/buttons.js"></script>
-    # design:
-    #   css_class: dark
-    #   background:
-    #     color: black
-    
+  
     design:
       background:
         gradient_end: '#1976d2'
@@ -47,6 +43,7 @@ sections:
       title: Short bio
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      {{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
   # - block: skills
    # content:
     #  title: Skills
