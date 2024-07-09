@@ -38,7 +38,7 @@ header:
   navbar:
     enable: true
     #blox: "navbar"
-    align: "right"
+    align: r
     #fixed_to_top: true
     show_logo: true
     show_language: false
