@@ -132,7 +132,8 @@ social:
 highlight_name: true
 ---
 
-I am a Senior Scientist at the Department of Geography of the Univeristy of Zurich. My research interests include spatial cognition, cartography, GIScience and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Senior Scientist at the Geographic Information Visualization and Analysis (GIVA) research group at the GISscience Center of the Department of Geography at the University of Zurich. My research interests lie in cartography, GIScience, spatial cognition, visual attention and perception, and cognitive science. Specifically, I am interested in investigating how mobile maps influence humans' spatial navigation behavior, mental representation of space, visual attention behavior, and neural activity during map-assisted navigation tasks. My teaching interests include cartography, geographic information visualization, and GIScience.
 {style="text-align: justify;"}
 
 {{% staticref "uploads/resume.pdf" "newtab" %}}Download CV{{% /staticref %}}
+{style="font-weight: bold;"}
