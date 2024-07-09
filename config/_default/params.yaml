@@ -6,9 +6,6 @@
 # Appearance
 
 appearance:
-  #mode: dark
-  #color: blue
-  #theme: mr_robot
   #theme_day: minimal
   theme_night: minimal
   font: minimal
