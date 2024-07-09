@@ -43,7 +43,6 @@ sections:
       title: Short bio
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      {{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
   # - block: skills
    # content:
     #  title: Skills
