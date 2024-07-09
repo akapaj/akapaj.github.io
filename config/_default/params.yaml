@@ -6,11 +6,8 @@
 # Appearance
 
 appearance:
-  # mode: dark
-  # color: blue
-  #theme_day: mr_robot
-  #theme_night: mr_robot
-  theme: mr_robot
+  theme_day: mr_robot
+  theme_night: mr_robot
   font: minimal
   font_size: m
 
@@ -40,9 +37,8 @@ header:
     align: r
     show_logo: true
     show_language: false
-    day_night: true
-    #show_day_night: true
-    #show_theme_chooser: true
+    show_day_night: true
+    show_theme_chooser: true
     show_search: true
     highlight_active_link: true
 
