@@ -6,8 +6,7 @@
 # Appearance
 
 appearance:
-  mode: light
-  mode: dark
+  mode: system
   color: blue
   #theme_day: minimal
   #theme_night: minimal
