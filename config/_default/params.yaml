@@ -6,11 +6,11 @@
 # Appearance
 
 appearance:
-  mode: dark
-  color: blue
+  #mode: dark
+  #color: blue
   #theme: mr_robot
-  #theme_day: mr_robot
-  #theme_night: mr_robot
+  theme_day: mr_robot
+  theme_night: mr_robot
   font: minimal
   font_size: m
 
@@ -39,7 +39,7 @@ header:
     enable: true
     #blox: "navbar"
     align: "right"
-    fixed_to_top: true
+    #fixed_to_top: true
     show_logo: true
     show_language: false
     #show_day_night: true
