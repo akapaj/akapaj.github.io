@@ -6,8 +6,10 @@
 # Appearance
 
 appearance:
+  mode: light
+  color: blue
   #theme_day: minimal
-  theme_night: minimal
+  #theme_night: minimal
   font: minimal
   font_size: m
 
@@ -16,8 +18,8 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
+    local_business_type: 'University'
+    org_name: 'University of Zurich'
     description: 'Senior Scientist at University of Zurich'
     twitter: 'ArmandKapaj'
   analytics:
@@ -39,7 +41,7 @@ header:
     #fixed_to_top: true
     show_logo: true
     show_language: false
-    show_day_night: true
+    #show_day_night: true
     show_theme_chooser: true
     show_search: true
     highlight_active_link: true
