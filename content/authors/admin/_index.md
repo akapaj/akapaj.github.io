@@ -129,7 +129,7 @@ social:
 highlight_name: true
 ---
 
-I am a Senior Scientist at the Department of Geography of the Univeristy of Zurich. My research interests include spatial cognition, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Senior Scientist at the Department of Geography of the Univeristy of Zurich. My research interests include spatial cognition, cartography and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
 
 {{% staticref "uploads/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
