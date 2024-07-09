@@ -250,7 +250,7 @@ sections:
       phone: +41 44 63 55152
       #appointment_url: 'https://calendly.com'
       address:
-        street: Winterthurerstrasse 190
+        street: University of Zurich, Department of Geography, Winterthurerstrasse 190, 8057 Zürich
         city: Zurich
         #region: Zurich
         postcode: '8057'
