@@ -165,9 +165,8 @@
         </li>
         {{ end }}
 
-        {{ $show_day_night := site.Params.header.navbar.show_day_night | default true }}
-        {{ $has_day_night_themes := (and site.Params.appearance.theme_day site.Params.appearance.theme_night) }}
-        {{ if and $has_day_night_themes $show_day_night }}
+        {{ $show_theme_chooser := site.Params.header.navbar.show_theme_chooser | default true }}
+        {{ if $show_theme_chooser }}
         <div class="px-3 text-black hover:text-primary-700 dark:text-white dark:hover:text-primary-300
               [&.active]:font-bold [&.active]:text-black/90 dark:[&.active]:text-white">
           <button class="theme-toggle mt-1" accesskey="t" title="appearance">
