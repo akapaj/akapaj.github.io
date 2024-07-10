@@ -1,6 +1,6 @@
-module github.com/HugoBlox/theme-academic-cv
+module github.com/HugoBlox/hugo-blox-builder/starters/academic-cv
 
-go 1.15
+go 1.19
 
 require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7
