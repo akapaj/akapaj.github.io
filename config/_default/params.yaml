@@ -6,10 +6,8 @@
 # Appearance
 
 appearance:
-  mode: system
-  color: emerald
-  #theme_day: minimal
-  #theme_night: minimal
+  theme_day: minimal
+  theme_night: minimal
   font: minimal
   font_size: m
 
@@ -36,8 +34,8 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
-    #align: r
+    #blox: "navbar"
+    align: r
     fixed_to_top: true
     show_logo: true
     show_language: false
@@ -67,9 +65,9 @@ locale:
 # Site features
 
 features:
-  #syntax_highlighter:
-    #theme_light: github-light
-    #theme_dark: github-dark
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: github-dark
   math:
     enable: false
   privacy_pack:
