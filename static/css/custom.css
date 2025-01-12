@@ -1,0 +1,5 @@
+.author__img {
+    width: 20px; /* Adjust size */
+    height: 20px; /* Adjust size */
+    border-radius: 50%; /* Keep circular shape */
+}
