@@ -5,8 +5,8 @@
 
 # Appearance
 
-params:
-  customCSS: ["css/custom.css"]
+customCSS:
+  - css/custom.css
 
 appearance:
   #mode: dark
