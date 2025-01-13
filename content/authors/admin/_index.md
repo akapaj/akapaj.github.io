@@ -21,8 +21,8 @@ role: Senior Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: GIVA Research Group
-    url: https://www.geo.uzh.ch/en/units/giva
+  #- name: GIVA Research Group
+    #url: https://www.geo.uzh.ch/en/units/giva
   - name: Department of Geography
     url: https://www.geo.uzh.ch/en/
   - name: Digital Society Initiative
@@ -135,7 +135,7 @@ social:
 highlight_name: true
 ---
 
-I am a Senior Scientist at the Geographic Information Visualization and Analysis (GIVA) research group at the GISscience Center of the Department of Geography at the University of Zurich. My research interests lie in cartography, GIScience, spatial cognition, visual attention and perception, and cognitive science. Specifically, I am interested in investigating how mobile maps influence humans' spatial navigation behavior, spatial learning, visual attention, and neural activity during map-assisted navigation tasks. My teaching interests include cartography, geographic information visualization, and GIScience.
+I am a Senior Scientist at the [Geographic Information Visualization and Analysis (GIVA)](https://www.geo.uzh.ch/en/units/giva) research group at the GIScience Center within the Department of Geography at the University of Zurich. My research areas include cartography, GIScience, spatial cognition, visual attention, and cognitive science. I specifically investigate how mobile maps influence human spatial navigation, spatial learning, visual attention, and neural activity in map-assisted navigation tasks. My teaching interests include cartography, geographic information visualization, and GIScience.
 {style="text-align: justify;"}
 
 {{% staticref "uploads/resume.pdf" "newtab" %}}Download CV{{% /staticref %}}
