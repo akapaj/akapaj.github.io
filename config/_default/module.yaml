@@ -15,7 +15,7 @@ mounts:
   #- source: hugo-blox/blox/community
     #target: layouts/partials/blox/community/
     #includeFiles: '**.html'
-  - #source: hugo-blox/blox/all-access
+  #- #source: hugo-blox/blox/all-access
     #target: layouts/partials/blox/
     #includeFiles: '**.html'
   - source: hugo-blox/blox
