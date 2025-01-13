@@ -25,3 +25,5 @@ mounts:
     target: layouts
   - source: assets
     target: assets
+  - source: layouts
+    target: layouts/partials/widget
