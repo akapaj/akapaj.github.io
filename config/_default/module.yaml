@@ -25,6 +25,6 @@ mounts:
     target: layouts
   - source: assets
     target: assets
-  - source: hugo-blox/blox
-    target: layouts/partials/blox/
+  - source: layouts/partials/blocks
+    target: layouts/partials/blocks/
     includeFiles: '**.html'
