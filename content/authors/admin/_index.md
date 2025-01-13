@@ -23,15 +23,15 @@ role: Senior Scientist
 organizations:
   #- name: GIVA Research Group
     #url: https://www.geo.uzh.ch/en/units/giva
-  - name: Department of Geography
+  - name: Department of Geography | University of Zurich
     url: https://www.geo.uzh.ch/en/
-  - name: Digital Society Initiative
-    url: https://www.dsi.uzh.ch/en.html
-  - name: University of Zurich (UZH)
-    url: https://www.uzh.ch/en.html
+  #- name: Digital Society Initiative
+    #url: https://www.dsi.uzh.ch/en.html
+  #- name: University of Zurich (UZH)
+    #url: https://www.uzh.ch/en.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cartography/GIScience, cpatial cognition, visual attention and cognitive science.
+bio: My research interests include cartography/GIScience, spatial cognition, visual attention and cognitive science.
 
 # Interests to show in About widget
 #interests:
@@ -135,7 +135,7 @@ social:
 highlight_name: true
 ---
 
-I am a Senior Scientist at the [Geographic Information Visualization and Analysis (GIVA)](https://www.geo.uzh.ch/en/units/giva) research group at the GIScience Center within the Department of Geography at the University of Zurich. My research areas include cartography, GIScience, spatial cognition, visual attention, and cognitive science. I specifically investigate how mobile maps influence human spatial navigation, spatial learning, visual attention, and neural activity in map-assisted navigation tasks. My teaching interests include cartography, geographic information visualization, and GIScience.
-{style="text-align: justify;"}
+I am a Senior Scientist at the [Geographic Information Visualization and Analysis (GIVA)](https://www.geo.uzh.ch/en/units/giva) research group at the GIScience Center within the Department of Geography at the [University of Zurich](https://www.uzh.ch/en.html). I am also a member of the [Mobility Community](https://mobility.dsi.uzh.ch/) of the [Digital Society Initiative (DSI)](https://www.dsi.uzh.ch/en.html) at the University of Zurich. My research areas include cartography, GIScience, spatial cognition, visual attention, and cognitive science. I specifically investigate how mobile maps influence human spatial navigation, spatial learning, visual attention, and neural activity in map-assisted navigation tasks. My teaching interests include cartography, geographic information visualization, and GIScience.
+{style="text-align: left;"}
 
 {{% staticref "uploads/resume.pdf" "newtab" %}}Download CV{{% /staticref %}}
