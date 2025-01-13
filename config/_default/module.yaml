@@ -9,7 +9,6 @@ imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/wowchemy
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
@@ -26,6 +25,6 @@ mounts:
     target: layouts
   - source: assets
     target: assets
-  - source: layouts
-    target: layouts/partials/widget/
+  - source: hugo-blox/blox/community
+    target: layouts/partials/blox/
     includeFiles: '**.html'
