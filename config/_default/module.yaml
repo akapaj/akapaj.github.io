@@ -28,6 +28,3 @@ mounts:
   #- source: layouts/partials/blocks
     #target: layouts/partials/blocks/
     #includeFiles: '**.html'
-  - source: assets/css
-    target: assets/css/
-    includeFiles: '**.css'
