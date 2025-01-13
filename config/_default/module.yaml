@@ -26,4 +26,5 @@ mounts:
   - source: assets
     target: assets
   - source: layouts
-    target: layouts/partials/widget
+    target: layouts/partials/widget/
+    includeFiles: '**.html'
