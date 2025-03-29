@@ -9,7 +9,7 @@ authors:
 date: '2023-01-01'
 publishDate: '2024-04-18T15:19:26.765822Z'
 publication_types:
-- preprint
+- article
 doi: https://doi.org/10.31234/osf.io/abfp7
 links:
 - name: URL
