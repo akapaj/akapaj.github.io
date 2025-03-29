@@ -172,6 +172,7 @@ sections:
           - project
        # Field to sort by, such as Date or Title
       sort_by: 'Date'
+      sort_ascending: false
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
