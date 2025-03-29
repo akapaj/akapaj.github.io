@@ -9,9 +9,9 @@
   #- css/custom.css
 
 appearance:
-  #mode: dark
+  mode: dark
   #color: blue
-  #theme_day: minimal
+  theme_day: minimal
   theme_night: minimal
   font: minimal
   font_size: s
