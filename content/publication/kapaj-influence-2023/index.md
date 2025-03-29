@@ -14,5 +14,5 @@ doi: https://doi.org/10.31234/osf.io/abfp7
 
 #links:
 #- name: URL
-  #url: https://psyarxiv.com/abfp7/download?format=pdf
+  #  url: https://psyarxiv.com/abfp7/download?format=pdf
 ---
