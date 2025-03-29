@@ -24,9 +24,9 @@ abstract: Depicting landmarks on mobile maps is an increasingly popular counterm
   emphasize the importance of visual realism when enriching navigation aids with landmarks
   to guide attention and enhance spatial learning for low-spatial-ability wayfinders.
 tags:
-- spatial abilities
-- landmark visualization
-- spatial learning
-- visual attention
-- real-world navigation
+- Spatial abilities
+- Landmark visualization
+- Spatial learning
+- Visual attention
+- Real-world navigation
 ---
