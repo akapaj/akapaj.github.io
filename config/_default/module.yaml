@@ -25,6 +25,6 @@ mounts:
     target: layouts
   - source: assets
     target: assets
-  - source: layouts/partials/blocks
-    target: layouts/partials/blocks/
-    includeFiles: '**.html'
+  #- source: layouts/partials/blocks
+    #target: layouts/partials/blocks/
+    #includeFiles: '**.html'
