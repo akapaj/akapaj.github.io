@@ -2,9 +2,9 @@
 title: Landmark Sequence Learning from Real-World Route Navigation and the Impact
   of Navigation Aid Visualisation Style
 authors:
-- C. Hilton
-- A. Kapaj
-- S. I. Fabrikant
+- Christopher Hilton
+- Armand Kapaj
+- Sara I. Fabrikant
 date: '2023-01-01'
 publishDate: '2024-04-18T15:19:26.800406Z'
 publication_types:
@@ -30,4 +30,9 @@ abstract: Primacy and recency features of serial memory are a hallmark of typica
   In a navigation context, the results support the notion that general memory mechanisms
   are involved in spatial learning, and that landmark sequence knowledge is a feature
   of spatial knowledge which is affected by navigation aids.
+
+tags:
+- Serial memory
+- Route learning
+- Assisted navigation
 ---
