@@ -23,10 +23,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Senior Scientist at University of Zurich.'
+    description: 'Senior Scientist at University of Zurich. Research in spatial cognition.'
     twitter: 'ArmandKapaj'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-082562KX3S'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
