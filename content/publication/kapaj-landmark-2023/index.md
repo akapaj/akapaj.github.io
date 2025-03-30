@@ -18,7 +18,8 @@ abstract: "Even though they are day-to-day activities, humans find navigation an
   is attributed to the fact that these aids capture users' attention and cause them
   to enter a passive navigation mode. Another factor that limits spatial learning
   during map-aided navigation is the lack of salient landmark information on mobile
-  maps.  Prior research has already demonstrated that wayfinders rely on landmarks—geographic
+  maps.<br/>
+  Prior research has already demonstrated that wayfinders rely on landmarks—geographic
   features that stand out from their surroundings—to facilitate navigation and build
   a spatial representation of the environments they traverse. Landmarks serve as anchor
   points and help wayfinders to visually match the spatial information depicted on
@@ -36,8 +37,8 @@ abstract: "Even though they are day-to-day activities, humans find navigation an
   in different navigation use contexts (emergency and general navigation tasks). Specifically,
   I conducted two real-world map-aided navigation studies to assess the influence
   of various landmark visualization styles on wayfinders' navigation performance,
-  spatial learning, allocation of visual attention, and cognitive load.  In Study
-  I, I investigated how depicting landmarks as abstract 2D building footprints or
+  spatial learning, allocation of visual attention, and cognitive load.<br/>
+  In Study I, I investigated how depicting landmarks as abstract 2D building footprints or
   realistic 3D buildings on the mobile map affected expert wayfinders' navigation
   performance, visual attention, spatial learning, and cognitive load during an emergency
   navigation task. I asked expert navigators recruited from the Swiss Armed Forces
@@ -54,7 +55,7 @@ abstract: "Even though they are day-to-day activities, humans find navigation an
   Furthermore, when the experts focused for longer on the environment and the landmarks,
   their spatial learning improved regardless of the landmark visualization style.
   I also found that the spatial learning of experts with self-reported low spatial
-  abilities improved when they navigated with landmarks depicted as realistic 3D buildings.\
+  abilities improved when they navigated with landmarks depicted as realistic 3D buildings.<br/>
   In Study II, I investigated the influence of abstract and realistic 3D landmark
   visualization styles on wayfinders sampled from the general population. As in Study
   I, I investigated wayfinders' navigation performance, visual attention, spatial
@@ -69,7 +70,7 @@ abstract: "Even though they are day-to-day activities, humans find navigation an
   on the mobile map. Spatial learning improved when wayfinders with low spatial abilities
   were assisted by realistic 3D landmarks. Also, when wayfinders were assisted by
   realistic 3D landmarks and paid less attention to the map aid, their spatial learning
-  improved.\
+  improved.<br/>
   Taken together, the present real-world navigation studies provide ecologically
   valid results on the influence of various landmark visualization styles on wayfinders.
   In particular, the studies demonstrate how visualization style modulates wayfinders'
