@@ -46,7 +46,16 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
 # links:
 # - name: URL
 #   url: https://doi.org/10.3758/s13414-024-02864-z
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: 'https://osf.io/mzty9'
 ---
