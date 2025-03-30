@@ -19,6 +19,7 @@ abstract: "Even though they are day-to-day activities, humans find navigation an
   to enter a passive navigation mode. Another factor that limits spatial learning
   during map-aided navigation is the lack of salient landmark information on mobile
   maps.<br/>
+   <br/>
   Prior research has already demonstrated that wayfinders rely on landmarks—geographic
   features that stand out from their surroundings—to facilitate navigation and build
   a spatial representation of the environments they traverse. Landmarks serve as anchor
@@ -38,6 +39,7 @@ abstract: "Even though they are day-to-day activities, humans find navigation an
   I conducted two real-world map-aided navigation studies to assess the influence
   of various landmark visualization styles on wayfinders' navigation performance,
   spatial learning, allocation of visual attention, and cognitive load.<br/>
+   <br/>
   In Study I, I investigated how depicting landmarks as abstract 2D building footprints or
   realistic 3D buildings on the mobile map affected expert wayfinders' navigation
   performance, visual attention, spatial learning, and cognitive load during an emergency
@@ -71,6 +73,7 @@ abstract: "Even though they are day-to-day activities, humans find navigation an
   were assisted by realistic 3D landmarks. Also, when wayfinders were assisted by
   realistic 3D landmarks and paid less attention to the map aid, their spatial learning
   improved.<br/>
+   <br/>
   Taken together, the present real-world navigation studies provide ecologically
   valid results on the influence of various landmark visualization styles on wayfinders.
   In particular, the studies demonstrate how visualization style modulates wayfinders'
@@ -85,7 +88,12 @@ abstract: "Even though they are day-to-day activities, humans find navigation an
   for users with low spatial skills. In doing so, future mobile maps could dynamically
   adapt the visualization style of landmarks according to wayfinders' spatial abilities
   for cued visual attention, thus meeting individuals' spatial learning needs."
-#links:
-#- name: URL
-  #url: https://www.zora.uzh.ch/id/eprint/234860/
+
+projects: []
+
+# links:
+# - name: URL
+#   url: https://doi.org/10.3758/s13414-024-02864-z
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://doi.org/10.17605/osf.io/ambju'
 ---
