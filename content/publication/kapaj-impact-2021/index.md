@@ -9,7 +9,7 @@ date: '2021-12-01'
 publishDate: '2024-04-18T15:19:26.771981Z'
 publication_types:
 - paper-conference
-publication: '*30th International Cartographic Conference (ICC 2021). Abstracts of the ICA.*'
+publication: '*30th International Cartographic Conference (ICC 2021). Abstracts of the ICA*'
 doi: 10.5194/ica-abs-3-138-2021
 abstract: Our daily navigation and wayfinding activities are cognitively challenging processes, especially in unfamiliar environments (Farr et al., 2012). 
   Landmarks have proven to facilitate navigation (Couclelis et al., 1987). Despite the acknowledged importance of landmarks for human navigation, it is still undecided how we should display them in a perceptually salient and cognitively supportive way on mobile maps. We aim to identify landmark designs that help redirect participants’ gaze to the traversed environment to support participants’ spatial knowledge acquisition during navigation, while also reducing participants’ cognitive load.<br/>
