@@ -25,6 +25,3 @@ mounts:
     target: layouts
   - source: assets
     target: assets
-  - source: static/css
-    target: static/css/
-    includeFiles: '**.css'
