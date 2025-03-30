@@ -42,7 +42,8 @@ tags:
 - Mobile map design
 - Spatial learning
 - Visual attention
-#links:
-#- name: URL
-  #url: https://doi.org/10.1080/15230406.2023.2183525
+
+projects: []
+
+url_code: 'https://doi.org/10.17605/OSF.IO/QDTVW'
 ---

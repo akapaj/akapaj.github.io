@@ -35,4 +35,12 @@ tags:
 - Serial memory
 - Route learning
 - Assisted navigation
+
+projects: []
+
+# links:
+# - name: URL
+#   url: https://doi.org/10.3758/s13414-024-02864-z
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://osf.io/jvctb/'
 ---
