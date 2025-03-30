@@ -5,10 +5,9 @@ authors:
 - Armand Kapaj
 date: '2023-07-28'
 publishDate: '2024-04-18T15:19:26.748950Z'
-
 publication_types:
 - thesis
-publication: '*University of Zurich*'
+publisher: '*University of Zurich*'
 doi: 10.5167/uzh-234860
 abstract: "Even though they are day-to-day activities, humans find navigation and
   wayfinding to be cognitively challenging. To facilitate their everyday mobility,
