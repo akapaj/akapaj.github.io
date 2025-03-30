@@ -58,6 +58,7 @@ abstract: "Even though they are day-to-day activities, humans find navigation an
   their spatial learning improved regardless of the landmark visualization style.
   I also found that the spatial learning of experts with self-reported low spatial
   abilities improved when they navigated with landmarks depicted as realistic 3D buildings.<br/>
+   <br/>
   In Study II, I investigated the influence of abstract and realistic 3D landmark
   visualization styles on wayfinders sampled from the general population. As in Study
   I, I investigated wayfinders' navigation performance, visual attention, spatial
