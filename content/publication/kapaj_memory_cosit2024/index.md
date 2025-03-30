@@ -23,4 +23,13 @@ tags:
 #links:
 #- name: URL
 #  url: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.COSIT.2024.13
+
+url_code: 'https://doi.org/10.17605/osf.io/z93ak'
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
 ---
