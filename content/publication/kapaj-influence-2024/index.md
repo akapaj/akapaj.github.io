@@ -30,6 +30,19 @@ tags:
 - Visual attention
 - Real-world navigation
 
+# Summary. An optional shortened abstract.
+summary: The findings revealed that while navigating with realistic landmarks, low-spatial-ability wayfinders focused more on the landmarks in the environment
+  and demonstrated improved knowledge of directions between landmarks.
+
 # Display this page in the Featured widget?
 featured: true
+
+url_code: 'https://doi.org/10.17605/OSF.IO/AKRJN'
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
 ---
