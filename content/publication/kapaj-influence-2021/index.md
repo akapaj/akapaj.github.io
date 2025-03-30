@@ -1,6 +1,6 @@
 ---
 title: The influence of landmark visualization style on expert wayfinders' visual
-  attention during a real-world navigation task
+  attention during a real-world navigation task (Short Paper)
 authors:
 - Armand Kapaj
 - Sara Lanini-Maggi
@@ -10,6 +10,8 @@ publishDate: '2024-04-18T15:19:26.778589Z'
 publication_types:
 - paper-conference
 doi: 10.25436/E2NP44
+publication: '*11th International Conference on Geographic Information Science (GIScience 2021). UC Santa Barbara: Center for Spatial Studies.*'
+
 abstract: Landmarks serve to structure the environment we experience, and therefore
   they are also critically important for our everyday movement through and knowledge
   acquisition about space. How to effectively visualize landmarks to support spatial
