@@ -12,11 +12,11 @@ publication_types:
 publication: '*Abstracts of the ICA*'
 doi: 10.5194/ica-abs-3-138-2021
 tags:
-- cognitive load
-- landmark visualization
-- mobile maps
-- real-world navigation study
-links:
-- name: URL
-  url: https://ica-abs.copernicus.org/articles/3/138/2021/
+- Cognitive load
+- Landmark visualization
+- Mobile maps
+- Real-world navigation study
+#links:
+#- name: URL
+  #url: https://ica-abs.copernicus.org/articles/3/138/2021/
 ---

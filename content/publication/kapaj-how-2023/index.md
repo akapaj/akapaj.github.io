@@ -35,14 +35,14 @@ abstract: Humans increasingly rely on GPS-enabled mobile maps to navigate novel 
   enhance expert navigators’ navigation or spatial learning abilities, thus highlighting
   the need for population-specific mobile map design solutions.
 tags:
-- real-world navigation study
-- expert users
-- eye-tracking
+- Real-world navigation study
+- Expert users
+- Eye-tracking
 - Landmark visualization style
-- mobile map design
-- spatial learning
-- visual attention
-links:
-- name: URL
-  url: https://doi.org/10.1080/15230406.2023.2183525
+- Mobile map design
+- Spatial learning
+- Visual attention
+#links:
+#- name: URL
+  #url: https://doi.org/10.1080/15230406.2023.2183525
 ---

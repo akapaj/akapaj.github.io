@@ -13,15 +13,15 @@ publication: '*15th International Conference on Spatial Information Theory (COSI
   2022)*'
 doi: 10.4230/LIPIcs.COSIT.2022.15
 tags:
-- landmark visualization
-- mobile map design
-- spatial learning
+- Landmark visualization
+- Mobile map design
+- Spatial learning
 - 3D
 - Abstraction
-- cartography
-- real-world navigation
-- realism
-links:
-- name: URL
-  url: https://drops.dagstuhl.de/opus/volltexte/2022/16900
+- Cartography
+- Real-world navigation
+- Realism
+#links:
+#- name: URL
+  #url: https://drops.dagstuhl.de/opus/volltexte/2022/16900
 ---

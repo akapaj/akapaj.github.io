@@ -29,4 +29,7 @@ tags:
 - Spatial learning
 - Visual attention
 - Real-world navigation
+
+# Display this page in the Featured widget?
+featured: true
 ---

@@ -3,7 +3,7 @@ title: Landmark Visualization on Mobile Maps – Effects on Visual Attention, Sp
   Learning, and Cognitive Load during Map-Aided Real-World Navigation of Pedestrians
 authors:
 - Armand Kapaj
-date: '2023-01-01'
+date: '2023-07-28'
 publishDate: '2024-04-18T15:19:26.748950Z'
 publication_types:
 - thesis
@@ -53,8 +53,9 @@ abstract: "Even though they are day-to-day activities, humans find navigation an
   Furthermore, when the experts focused for longer on the environment and the landmarks,
   their spatial learning improved regardless of the landmark visualization style.
   I also found that the spatial learning of experts with self-reported low spatial
-  abilities improved when they navigated with landmarks depicted as realistic 3D buildings.\
-  \  In Study II, I investigated the influence of abstract and realistic 3D landmark
+  abilities improved when they navigated with landmarks depicted as realistic 3D buildings.
+  
+  In Study II, I investigated the influence of abstract and realistic 3D landmark
   visualization styles on wayfinders sampled from the general population. As in Study
   I, I investigated wayfinders' navigation performance, visual attention, spatial
   learning, and cognitive load. In contrast to Study I, the participants in Study
@@ -68,7 +69,9 @@ abstract: "Even though they are day-to-day activities, humans find navigation an
   on the mobile map. Spatial learning improved when wayfinders with low spatial abilities
   were assisted by realistic 3D landmarks. Also, when wayfinders were assisted by
   realistic 3D landmarks and paid less attention to the map aid, their spatial learning
-  improved.  Taken together, the present real-world navigation studies provide ecologically
+  improved.  
+  
+  Taken together, the present real-world navigation studies provide ecologically
   valid results on the influence of various landmark visualization styles on wayfinders.
   In particular, the studies demonstrate how visualization style modulates wayfinders'
   visual attention and facilitates spatial learning across various user groups and
@@ -82,7 +85,7 @@ abstract: "Even though they are day-to-day activities, humans find navigation an
   for users with low spatial skills. In doing so, future mobile maps could dynamically
   adapt the visualization style of landmarks according to wayfinders' spatial abilities
   for cued visual attention, thus meeting individuals' spatial learning needs."
-links:
-- name: URL
-  url: https://www.zora.uzh.ch/id/eprint/234860/
+#links:
+#- name: URL
+  #url: https://www.zora.uzh.ch/id/eprint/234860/
 ---

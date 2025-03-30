@@ -16,10 +16,10 @@ abstract: The visualization of landmarks in mobile maps has become a popular cou
 
 tags:
 - Long-term
-- spatial memory
-- retention
-- map-aided
-- real-world navigation
+- Spatial memory
+- Retention
+- Map-aided
+- Real-world navigation
 #links:
 #- name: URL
 #  url: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.COSIT.2024.13

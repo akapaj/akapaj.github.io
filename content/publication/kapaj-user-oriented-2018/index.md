@@ -2,7 +2,7 @@
 title: User-Oriented Campus Routing
 authors:
 - Armand Kapaj
-date: '2018-01-01'
+date: '2018-09-14'
 publishDate: '2024-04-18T15:19:26.738565Z'
 publication_types:
 - thesis
@@ -34,6 +34,17 @@ abstract: University campuses constitute highly complex architectural buildings 
   use of structural indoor features to plan and convey the route in an effective and
   efficient way. Users stated that they were satisfied with the developed 3D web application
   and would like to use it for other university campuses.
+
+tags:
+- Campus routing system
+- 3D web application
+- Indoor navigation
+- Indoor wayfinding
+- Indoor cartography
+- Map design 
+- Usability and utility
+- User study
+
 links:
 - name: URL
   url: https://mediatum.ub.tum.de/1619880

@@ -28,7 +28,7 @@ abstract: Landmarks serve to structure the environment we experience, and theref
   of human visual attention allocation during outdoor navigation, and to further understand
   how landmark depiction styles on mobile maps might guide wayfinders’ visual attention
   back to the environment to support spatial learning during map-assisted navigation.
-links:
-- name: URL
-  url: https://escholarship.org/uc/item/7km7x3w1
+#links:
+#- name: URL
+  #url: https://escholarship.org/uc/item/7km7x3w1
 ---
