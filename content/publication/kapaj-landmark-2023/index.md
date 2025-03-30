@@ -5,8 +5,10 @@ authors:
 - Armand Kapaj
 date: '2023-07-28'
 publishDate: '2024-04-18T15:19:26.748950Z'
+
 publication_types:
 - thesis
+publication: '*University of Zurich*'
 doi: 10.5167/uzh-234860
 abstract: "Even though they are day-to-day activities, humans find navigation and
   wayfinding to be cognitively challenging. To facilitate their everyday mobility,
@@ -53,8 +55,7 @@ abstract: "Even though they are day-to-day activities, humans find navigation an
   Furthermore, when the experts focused for longer on the environment and the landmarks,
   their spatial learning improved regardless of the landmark visualization style.
   I also found that the spatial learning of experts with self-reported low spatial
-  abilities improved when they navigated with landmarks depicted as realistic 3D buildings.
-  
+  abilities improved when they navigated with landmarks depicted as realistic 3D buildings.\
   In Study II, I investigated the influence of abstract and realistic 3D landmark
   visualization styles on wayfinders sampled from the general population. As in Study
   I, I investigated wayfinders' navigation performance, visual attention, spatial
@@ -69,8 +70,7 @@ abstract: "Even though they are day-to-day activities, humans find navigation an
   on the mobile map. Spatial learning improved when wayfinders with low spatial abilities
   were assisted by realistic 3D landmarks. Also, when wayfinders were assisted by
   realistic 3D landmarks and paid less attention to the map aid, their spatial learning
-  improved.  
-  
+  improved.\
   Taken together, the present real-world navigation studies provide ecologically
   valid results on the influence of various landmark visualization styles on wayfinders.
   In particular, the studies demonstrate how visualization style modulates wayfinders'
@@ -79,7 +79,7 @@ abstract: "Even though they are day-to-day activities, humans find navigation an
   importance of individual differences in spatial abilities as predictors of spatial
   learning during map-assisted navigation. Based on these findings, the present work
   provides design recommendations for future mobile maps that go beyond the traditional
-  concept of  \\\"one fits all.\\\" Indeed, the studies support the cause for landmark
+  concept of \\\"one fits all.\\\" Indeed, the studies support the cause for landmark
   depiction that directs individual wayfinders' visual attention to task-relevant
   landmarks to further enhance spatial learning. This would be especially helpful
   for users with low spatial skills. In doing so, future mobile maps could dynamically
