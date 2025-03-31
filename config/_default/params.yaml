@@ -11,8 +11,8 @@
 appearance:
   mode: dark
   #color: blue
-  theme_day: Mr Robot
-  theme_night: Mr Robot
+  theme_day: Minimal
+  theme_night: Minimal
   font: minimal
   font_size: s
 
