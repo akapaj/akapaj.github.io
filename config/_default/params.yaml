@@ -11,9 +11,9 @@
 appearance:
   #mode: dark
   #color: blue
-  theme_day: Coder
-  theme_night: Coder
-  font: minimal
+  theme_day: Terminal
+  theme_night: Terminal
+  font: Terminal
   font_size: s
 
 # SEO
