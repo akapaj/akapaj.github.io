@@ -11,9 +11,9 @@
 appearance:
   #mode: dark
   #color: blue
-  theme_day: Terminal
-  theme_night: Terminal
-  font: Terminal
+  theme_day: Mr Robot
+  theme_night: Mr Robot
+  font: Mr Robot
   font_size: s
 
 # SEO
