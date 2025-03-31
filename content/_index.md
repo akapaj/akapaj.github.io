@@ -203,16 +203,34 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  - block: collection
+  - block: portfolio #collection
     id: talks
     content:
       title: Talks
       filters:
         folders:
           - event
+      sort_by: 'Date'
+      sort_ascending: false
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Conferences
+          tag: Conferences
+        - name: Invited Talks
+          tag: Invited
+        - name: Workshops
+          tag: Workshops
     design:
-      columns: '2'
-      view: compact
+      columns: '1'
+      view: masonry #compact
   - block: collection
     id: featured
     content:
