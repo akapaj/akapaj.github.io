@@ -11,9 +11,9 @@
 appearance:
   #mode: dark
   #color: blue
-  theme_day: Ocean
+  theme_day: Minimal
   theme_night: Mr Robot
-  font: Rose
+  font: Cyberpunk
   font_size: s
 
 # SEO
