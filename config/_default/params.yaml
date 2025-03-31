@@ -12,8 +12,8 @@ appearance:
   #mode: dark
   #color: blue
   theme_day: Minimal
-  theme_night: Dark
-  font: Cyberpunk
+  theme_night: Minimal
+  font: Minimal
   font_size: s
 
 # SEO
