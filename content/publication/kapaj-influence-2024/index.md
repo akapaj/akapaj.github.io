@@ -2,7 +2,7 @@
 title: The influence of landmark visualization style on task performance, visual attention,
   and spatial learning in a real-world navigation task
 authors:
-- Armand Kapaj
+- admin
 - Christopher Hilton
 - Sara Lanini-Maggi
 - Sara I. Fabrikant

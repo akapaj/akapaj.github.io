@@ -3,7 +3,7 @@ title: Landmark Sequence Learning from Real-World Route Navigation and the Impac
   of Navigation Aid Visualisation Style
 authors:
 - Christopher Hilton
-- Armand Kapaj
+- admin
 - Sara I. Fabrikant
 date: '2023-07-12'
 publishDate: '2024-04-18T15:19:26.800406Z'

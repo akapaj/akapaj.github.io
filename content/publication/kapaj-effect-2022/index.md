@@ -1,7 +1,7 @@
 ---
 title: The Effect of Abstract vs. Realistic 3D Visualization on Landmark and Route Knowledge Acquisition (Short Paper)
 authors:
-- Armand Kapaj
+- admin
 - Enru Lin
 - Sara Lanini-Maggi
 date: '2022-08-22'

@@ -2,7 +2,7 @@
 title: The influence of landmark visualization style on expert wayfinders' visual
   attention during a real-world navigation task (Short Paper)
 authors:
-- Armand Kapaj
+- admin
 - Sara Lanini-Maggi
 - Sara Irina Fabrikant
 date: '2021-09-01'

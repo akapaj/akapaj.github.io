@@ -1,7 +1,7 @@
 ---
 title: Long-Term Landmark and Route Memory Retention Acquired in a Real-World Map-Aided Navigation Task (Short Paper)
 authors:
-- Armand Kapaj
+- admin
 - Christopher Hilton
 - Sara I. Fabrikant
 date: '2024-09-09'

@@ -2,7 +2,7 @@
 title: Realistic landmark symbols on a map provide implicit, but not explicit, benefits during spatial navigation (Poster)
 authors:
 - Christopher Hilton
-- Armand Kapaj
+- admin
 - Sara I. Fabrikant
 date: '2024-08-20'
 #publishDate: '2024-04-18T15:19:26.793892Z'

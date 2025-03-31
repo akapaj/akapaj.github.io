@@ -2,7 +2,7 @@
 title: How does the design of landmarks on a mobile map influence wayfinding experts’
   spatial learning during a real-world navigation task?
 authors:
-- Armand Kapaj
+- admin
 - Sara Lanini-Maggi
 - Christopher Hilton
 - Bingjie Cheng

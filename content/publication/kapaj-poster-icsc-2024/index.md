@@ -1,7 +1,7 @@
 ---
 title: Long-term retention of landmark and route knowledge acquired during a real-world map-aided navigation task (Poster)
 authors:
-- Armand Kapaj
+- admin
 - Christopher Hilton
 - Sara I. Fabrikant
 date: '2024-08-20'

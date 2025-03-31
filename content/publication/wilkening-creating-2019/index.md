@@ -2,7 +2,7 @@
 title: Creating a 3D Campus Routing Information System with ArcGIS Indoors
 authors:
 - Jan Wilkening
-- Armand Kapaj
+- admin
 - Juliane Cron
 date: '2019-02-01'
 publishDate: '2024-04-18T15:19:26.759722Z'

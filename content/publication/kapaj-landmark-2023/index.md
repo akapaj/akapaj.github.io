@@ -2,7 +2,7 @@
 title: Landmark Visualization on Mobile Maps – Effects on Visual Attention, Spatial
   Learning, and Cognitive Load during Map-Aided Real-World Navigation of Pedestrians
 authors:
-- Armand Kapaj
+- admin
 date: '2023-07-28'
 publishDate: '2024-04-18T15:19:26.748950Z'
 publication_types:

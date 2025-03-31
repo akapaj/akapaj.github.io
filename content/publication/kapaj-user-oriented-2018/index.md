@@ -1,7 +1,7 @@
 ---
 title: User-Oriented Campus Routing
 authors:
-- Armand Kapaj
+- admin
 date: '2018-09-14'
 publishDate: '2024-04-18T15:19:26.738565Z'
 publication_types:

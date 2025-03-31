@@ -2,7 +2,7 @@
 title: The impact of landmark visualization style on expert wayfinders’ cognitive
   load during navigation
 authors:
-- Armand Kapaj
+- admin
 - Sara Lanini-Maggi
 - Sara I. Fabrikant
 date: '2021-12-01'
