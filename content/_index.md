@@ -223,7 +223,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: masonry #card
   - block: collection
     content:
       title: Recent Publications
