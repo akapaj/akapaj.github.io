@@ -10,10 +10,10 @@
 
 appearance:
   mode: dark
-  #color: blue
-  theme_day: Minimal
-  theme_night: Minimal
-  font: minimal
+  color: blue
+  #theme_day: Minimal
+  #theme_night: Minimal
+  #font: minimal
   font_size: s
 
 # SEO
