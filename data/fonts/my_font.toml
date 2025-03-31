@@ -2,10 +2,10 @@
 name = "my_font"
 
 # Optional Google font URL
-google_fonts = "family=Montserrat:wght@600;600&family=Roboto+Mono&family=Roboto:wght@300;300"
+google_fonts = "family=Montserrat:wght@1000;1000&family=Roboto+Mono&family=Roboto:wght@300;300"
 
 # Font families
-heading_font = "Montserrat"
+heading_font = "Roboto Mono"
 body_font = "Roboto"
 nav_font = "Montserrat"
 mono_font = "Roboto Mono"
