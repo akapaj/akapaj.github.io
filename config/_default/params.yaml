@@ -11,9 +11,9 @@
 appearance:
   #mode: dark
   #color: blue
-  theme_day: Rose
+  theme_day: Ocean
   theme_night: Mr Robot
-  font: Classic
+  font: Rose
   font_size: s
 
 # SEO
