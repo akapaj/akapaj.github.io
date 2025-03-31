@@ -10,9 +10,9 @@
 
 appearance:
   mode: dark
-  color: blue
-  #theme_day: Mr Robot
-  #theme_night: Mr Robot
+  #color: blue
+  theme_day: Mr Robot
+  theme_night: Mr Robot
   font: minimal
   font_size: s
 
@@ -39,9 +39,9 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
+    #blox: "navbar"
     align: r
-    fixed_to_top: true
+    #fixed_to_top: true
     show_logo: true
     show_language: false
     show_day_night: true
