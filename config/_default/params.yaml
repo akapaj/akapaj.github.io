@@ -13,7 +13,7 @@ appearance:
   #color: blue
   theme_day: Mr Robot
   theme_night: Mr Robot
-  font: Minimal
+  font: my_font
   font_size: s
 
 # SEO
