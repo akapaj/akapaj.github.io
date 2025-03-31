@@ -44,7 +44,7 @@ header:
     fixed_to_top: true
     show_logo: true
     show_language: false
-    #show_day_night: true
+    show_day_night: true
     show_theme_chooser: true
     show_search: true
     highlight_active_link: true
