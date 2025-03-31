@@ -9,10 +9,10 @@
   #- css/custom.css
 
 appearance:
-  mode: dark
-  color: blue
-  #theme_day: Minimal
-  #theme_night: Minimal
+  #mode: dark
+  #color: blue
+  theme_day: Minimal
+  theme_night: Minimal
   font: minimal
   font_size: s
 
@@ -44,8 +44,8 @@ header:
     #fixed_to_top: true
     show_logo: true
     show_language: false
-    show_day_night: false
-    show_theme_chooser: false
+    show_day_night: true
+    show_theme_chooser: true
     show_search: true
     highlight_active_link: true
 
