@@ -213,7 +213,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: collection
+  - block: portfolio #collection
     id: featured
     content:
       title: Featured Publications
