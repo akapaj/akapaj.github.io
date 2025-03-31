@@ -213,7 +213,7 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: collection
+  - block: portfolio #collection
     id: featured
     content:
       title: Featured Publications
@@ -223,7 +223,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: masonry
   - block: collection
     content:
       title: Recent Publications
