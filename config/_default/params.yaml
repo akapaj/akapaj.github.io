@@ -11,9 +11,9 @@
 appearance:
   #mode: dark
   #color: blue
-  theme_day: Earth
-  theme_night: Earth
-  font: Cyberpunk
+  theme_day: Rose
+  theme_night: Mr Robot
+  font: Classic
   font_size: s
 
 # SEO
