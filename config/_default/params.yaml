@@ -14,7 +14,7 @@ appearance:
   theme_day: my_theme
   theme_night: my_theme
   font: my_font
-  font_size: s
+  font_size: m
 
 # SEO
 
