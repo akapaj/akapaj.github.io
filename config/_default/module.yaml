@@ -33,5 +33,5 @@ mounts:
 
   # Add this to mount the JS file
   - source: static/js/              # Replace with the path to your js folder (if not already in static/js)
-    target: static/js              # Mount to the assets/js folder in the build
+    target: static/js/              # Mount to the assets/js folder in the build
     includeFiles: '**.js'           # This will include all .js files
