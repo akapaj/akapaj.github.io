@@ -139,5 +139,3 @@ I am a Senior Scientist at the [Geographic Information Visualization and Analysi
 {style="text-align: left;"}
 
 {{< button "/uploads/resume.pdf" "Download CV" >}}
-<!-- {{< button "/uploads/resume.pdf" "Download CV" "btn-info" >}} -->
-<!-- {{< button "/uploads/resume.pdf" "Download CV" "btn-light" >}} -->
