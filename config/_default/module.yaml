@@ -11,20 +11,22 @@ imports:
   #- path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
-# mounts:
-#   - source: hugo-blox/blox/community
-#     target: layouts/partials/blox/community/
-#     includeFiles: '**.html'
-#   - source: hugo-blox/blox/all-access
-#     target: layouts/partials/blox/
-#     includeFiles: '**.html'
-#   - source: hugo-blox/blox
-#     target: assets/dist/community/blox/
-#     includeFiles: '**.css'
-#   - source: layouts
-#     target: layouts
-#   - source: assets
-#     target: assets
-#   - source: static/css/custom.css  # Add this line to link custom CSS
-#     target: assets/css/           # Mount to assets/css in the build
-#     includeFiles: '**.css'
+mounts:
+  # - source: hugo-blox/blox/community
+  #   target: layouts/partials/blox/community/
+  #   includeFiles: '**.html'
+  # - source: hugo-blox/blox/all-access
+  #   target: layouts/partials/blox/
+  #   includeFiles: '**.html'
+  # - source: hugo-blox/blox
+  #   target: assets/dist/community/blox/
+  #   includeFiles: '**.css'
+  # - source: layouts/
+  #   target: layouts
+  # - source: assets
+  #   target: assets
+  # - source: static/css/custom.css  # Add this line to link custom CSS
+  #   target: assets/css/           # Mount to assets/css in the build
+  #   includeFiles: '**.css'
+  - source: layouts/partials
+    target: layouts/partials
