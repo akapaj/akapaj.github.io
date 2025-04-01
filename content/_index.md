@@ -38,6 +38,9 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         #text_color_light: false
+      spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['10px', '0', '20px', '0']
   - block: about.biography
     id: about
     content:
