@@ -21,12 +21,12 @@ mounts:
   #- source: hugo-blox/blox
     #target: assets/dist/community/blox/
     #includeFiles: '**.css'
-  - source: layouts
-    target: layouts
-  - source: assets
-    target: assets
-  - source: static/css/custom.css  # Add this line to link custom CSS
-    target: assets/css/           # Mount to assets/css in the build
-    includeFiles: '**.css'
+  #- source: layouts
+    #target: layouts
+  #- source: assets
+    #target: assets
+  #- source: static/css/custom.css  # Add this line to link custom CSS
+    #target: assets/css/           # Mount to assets/css in the build
+    #includeFiles: '**.css'
   - source: layouts/partials
     target: layouts/partials
