@@ -10,7 +10,7 @@ imports:
   #- path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
   #- path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
 
-  - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+  #- path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
   - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
   - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
