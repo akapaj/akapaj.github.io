@@ -1,7 +1,6 @@
 /* custom.css */
-.avatar.avatar-circle {
-    width: 150px;   /* Adjust the size of the avatar */
-    height: 150px;  /* Adjust the height */
-    border-radius: 50%;  /* Ensure the avatar remains circular */
+.avatar {
+    width: 150px !important;   /* Adjust the size of the avatar */
+    height: 150px !important;;  /* Adjust the height */
   }
   

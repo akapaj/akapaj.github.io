@@ -7,7 +7,9 @@
 
 #customCSS:
   #- css/custom.css
-
+params:
+  customCSS: ["css/custom.css"]
+  
 appearance:
   #mode: dark
   #color: blue
