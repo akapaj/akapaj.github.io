@@ -1,3 +1,2 @@
-<!-- <a href="{{ .Get 0 }}" class="btn btn-primary" target="_blank">{{ .Get 1 }}</a> -->
-<a href="{{ .Get 0 | safeURL }}" class="{{ .Get 2 | default "btn btn-primary" }}" target="_blank">{{ .Get 1 }}</a>
-{{< button "/uploads/resume.pdf" "Download CV" "btn-light" >}}
+<a href="{{ .Get 0 }}" class="btn btn-primary" target="_blank">{{ .Get 1 }}</a>
+<!-- <a href="{{ .Get 0 | safeURL }}" class="{{ .Get 2 | default "btn btn-primary" }}" target="_blank">{{ .Get 1 }}</a> -->
