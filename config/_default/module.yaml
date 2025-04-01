@@ -5,26 +5,30 @@
 ############################
 
 imports:
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+  #- path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+  #- path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
+  #- path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+  #- path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+
+  - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+  - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+  - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
-mounts:
-  - source: hugo-blox/blox/community
-    target: layouts/partials/blox/community/
-    includeFiles: '**.html'
-  - source: hugo-blox/blox/all-access
-    target: layouts/partials/blox/
-    includeFiles: '**.html'
-  - source: hugo-blox/blox
-    target: assets/dist/community/blox/
-    includeFiles: '**.css'
-  - source: layouts
-    target: layouts
-  - source: assets
-    target: assets
-  - source: static/css/custom.css  # Add this line to link custom CSS
-    target: assets/css/           # Mount to assets/css in the build
-    includeFiles: '**.css'
+# mounts:
+#   - source: hugo-blox/blox/community
+#     target: layouts/partials/blox/community/
+#     includeFiles: '**.html'
+#   - source: hugo-blox/blox/all-access
+#     target: layouts/partials/blox/
+#     includeFiles: '**.html'
+#   - source: hugo-blox/blox
+#     target: assets/dist/community/blox/
+#     includeFiles: '**.css'
+#   - source: layouts
+#     target: layouts
+#   - source: assets
+#     target: assets
+#   - source: static/css/custom.css  # Add this line to link custom CSS
+#     target: assets/css/           # Mount to assets/css in the build
+#     includeFiles: '**.css'
