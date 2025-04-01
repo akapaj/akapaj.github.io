@@ -1,58 +1,27 @@
-{{ $show_navbar := ((site.Params.header.navbar.enable | default true) | and (ne .Params.header.navbar.enable false)) | or .Params.header.navbar.enable }}
-{{ if $show_navbar }}
+<!-- Navbar with theme toggle button (Light/Dark) -->
+<nav class="navbar navbar-expand-lg navbar-light">
+  <div class="container">
+    <!-- Logo (optional) -->
+    <a class="navbar-brand" href="/">
+      <img src="/images/logo.png" alt="Logo" height="40" />
+    </a>
 
-{{ $current_page := . }}
-{{ $highlight_active_link := site.Params.header.navbar.highlight_active_link | default true }}
-{{ $show_current_language := site.Params.header.navbar.show_language | default false }}
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-{{/* Get site logo. */}}
-{{ $show_logo := site.Params.header.navbar.show_logo | default true }}
-{{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }}
-{{ $logo := "" }}
-{{ if $has_logo }}
-  {{ $logo = (partial "blox-core/functions/get_logo" (dict "constraint" "max_height" "size" 70)) }}
-{{ end }}
-
-<header>
-  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
-    <div class="container-xl">
-      
-      {{ if site.Menus.main }}
-      <button type="button" class="navbar-toggler" data-toggle="collapse"
-              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="{{ i18n "toggle_navigation" }}">
-      <span><i class="fas fa-bars"></i></span>
-      </button>
-      {{ end }}
-
-      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
-        <ul class="navbar-nav d-md-inline-flex">
-          {{ range site.Menus.main }}
-          <li class="nav-item">
-            <a class="nav-link" href="{{.URL | relLangURL}}">
-              {{- .Pre -}}<span>{{ .Name | safeHTML }}</span>{{- .Post -}}
-            </a>
-          </li>
-          {{ end }}
-        </ul>
-      </div>
-
-      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
-        {{ $show_day_night := site.Params.header.navbar.show_day_night | default true }}
-        {{ $has_day_night_themes := (and site.Params.appearance.theme_day site.Params.appearance.theme_night) }}
-        {{ if and $has_day_night_themes $show_day_night }}
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <!-- Other navbar items -->
+        
+        <!-- Custom Theme Toggle (Light/Dark mode) -->
         <li class="nav-item">
-          <a href="#" class="nav-link js-set-theme-dark" id="dark-theme-toggle" aria-label="Dark Mode">
-            <i class="fas fa-moon"></i>
+          <a href="#" class="nav-link" id="theme-toggle">
+            <i id="theme-icon" class="fa fa-sun"></i> <!-- Default to Sun for Light Mode -->
           </a>
         </li>
-        <li class="nav-item">
-          <a href="#" class="nav-link js-set-theme-light" id="light-theme-toggle" aria-label="Light Mode">
-            <i class="fas fa-sun"></i>
-          </a>
-        </li>
-        {{ end }}
       </ul>
     </div>
-  </nav>
-</header>
-{{end}}
+  </div>
+</nav>
