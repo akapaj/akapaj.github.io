@@ -138,4 +138,5 @@ highlight_name: true
 I am a Senior Scientist at the [Geographic Information Visualization and Analysis (GIVA)](https://www.geo.uzh.ch/en/units/giva) research group at the GIScience Center within the Department of Geography at the [University of Zurich](https://www.uzh.ch/en.html). I am also a member of the [Mobility Community](https://mobility.dsi.uzh.ch/) of the [Digital Society Initiative (DSI)](https://www.dsi.uzh.ch/en.html) at the University of Zurich. My research areas include cartography, GIScience, spatial cognition, visual attention, and cognitive science. I specifically investigate how mobile maps influence human spatial navigation, spatial learning, visual attention, and neural activity in map-assisted navigation tasks. My teaching interests include cartography, geographic information visualization, and GIScience.
 {style="text-align: left;"}
 
-{{< button "/uploads/resume.pdf" "Download CV" "btn-info" >}}
+<!-- {{< button "/uploads/resume.pdf" "Download CV" "btn-info" >}} -->
+{{< button "/uploads/resume.pdf" "Download CV" "btn-light" >}}
