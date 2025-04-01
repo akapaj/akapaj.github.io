@@ -41,7 +41,7 @@ sections:
       spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['10px', '0', '10px', '0']
-  - block: about.biography
+  - block: about.avatar
     id: about
     content:
       title: Short bio
