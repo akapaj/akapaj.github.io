@@ -21,3 +21,7 @@ name = "my_theme"
 
   link = "#bbdefb"
   link_hover = "#bbdefb"
+  
+  # Home sections
+  home_section_odd = "rgb(29, 33, 39)"
+  home_section_even = "rgb(29, 33, 39)"
