@@ -14,7 +14,7 @@ appearance:
   #mode: dark
   #color: blue
   theme_day: my_theme
-  theme_night: my_theme
+  theme_night: my_dark
   font: my_font
   font_size: s
 
