@@ -1,24 +1,2 @@
-<style>
-    .teal-button {
-      background-color: rgb(1, 136, 159); /* Teal background */
-      color: white; /* Solid white text */
-      font-weight: 700; /* Bold text */
-      padding: 0.6em 1.2em;
-      border: none; /* No border needed */
-      border-radius: 0.5em;
-      text-decoration: none;
-      display: inline-block;
-      transition: background-color 0.3s ease;
-    }
-    
-    .teal-button:hover {
-      background-color: rgb(0, 110, 130); /* Slightly darker teal on hover */
-      color: white; /* Keep text white on hover too */
-    }
-    </style>
-    
-    <a href="{{ .Get 0 }}" class="teal-button" target="_blank">{{ .Get 1 }}</a>
-    
-<!-- <a href="{{ .Get 0 }}" style="background-color: #14b8a6; border: none; color: white; padding: 0.5em 1em; border-radius: 0.5em; text-decoration: none; display: inline-block;" target="_blank">{{ .Get 1 }}</a> -->
-<!-- <a href="{{ .Get 0 }}" class="btn btn-primary" target="_blank">{{ .Get 1 }}</a> -->
+ <a href="{{ .Get 0 }}" class="btn btn-primary" target="_blank">{{ .Get 1 }}</a>
 <!-- <a href="{{ .Get 0 | safeURL }}" class="{{ .Get 2 | default "btn btn-primary" }}" target="_blank">{{ .Get 1 }}</a> -->
