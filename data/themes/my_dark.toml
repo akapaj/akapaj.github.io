@@ -3,7 +3,7 @@ name = "Mr Robot"
 
 [dark]
   # Primary
-  primary = "rgb(0, 136, 204)"
+  primary = "rgb(1, 136, 159)"
 
   # Menu
   menu_primary = "rgb(33, 37, 41)"
