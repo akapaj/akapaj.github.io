@@ -18,6 +18,9 @@ name = "my_theme"
 [dark]
   # Primary
   primary = "#bbdefb"
+  
+  # Menu
+  menu_primary = "rgb(33, 37, 41)"
 
   link = "#bbdefb"
   link_hover = "#bbdefb"
