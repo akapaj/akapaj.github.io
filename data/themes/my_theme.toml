@@ -23,7 +23,7 @@ name = "my_theme"
   menu_primary = "rgb(33, 37, 41)"
 
   link = "#bbdefb"
-  link_hover = "#9AB8F0"
+  link_hover = "#90CAF9"
   
   # Home sections
   home_section_odd = "rgb(29, 33, 39)"
