@@ -15,9 +15,9 @@ doi: 10.5194/agile-giss-6-50-2025
 abstract: The process by which navigators develop a cognitive map of an unfamiliar environment with increasing exposure has been extensively studied. How this process unfolds during mobile map-assisted navigation remains an open research question. We thus conducted an outdoor pedestrian navigation study (N = 45) in a residential neighborhood initially unknown to participants. Participants were asked to navigate a predefined route using a mobile map three times across three separate days within a week. Following each navigation session, participants were tested on their evolving spatial knowledge of the traversed environment. We find that participants acquired meaningful landmark, route, and survey knowledge on their first environmental exposure and that all three types of spatial knowledge increased in later sessions. We also discovered that landmark direction information developed faster than distance information in participants’ cognitive maps. These highly ecologically valid results contribute to a better understanding of the role of increased environmental exposure on the continuous and parallel development of spatial knowledge during map-assisted navigation.
 
 tags:
-- Spatial learning
-- Real-world navigation study
-- Mobile map
+- Spatial Learning
+- Real-World Navigation Study
+- Mobile Map
 
 # Display this page in the Featured widget?
 featured: false
