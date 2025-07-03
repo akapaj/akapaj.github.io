@@ -4,7 +4,7 @@ title: The development of landmark, route, and survey knowledge through repeated
 authors:
 - Q. Ying
 - C. Hilton
-- A. Kapaj
+- admin
 - S. I. Fabrikant
 date: '2024-01-01'
 publishDate: '2025-07-01T20:54:57.875065Z'
