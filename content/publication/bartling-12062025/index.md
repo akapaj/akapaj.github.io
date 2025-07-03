@@ -2,7 +2,7 @@
 title: 'Unlocking context-aware mobile map adaptation: a VR navigation user study'
 authors:
 - Mona Bartling
-- Armand Kapaj
+- admin
 - Bingjie Cheng
 - Zhengfang Xu
 - Amy L. Griffin
