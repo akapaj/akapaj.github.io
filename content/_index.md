@@ -234,7 +234,7 @@ sections:
           tag: Workshops
     design:
       columns: '1'
-      view: masonry #compact
+      view: citation #masonry #compact
   - block: collection
     id: featured
     content:
