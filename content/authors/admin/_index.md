@@ -34,12 +34,12 @@ organizations:
 bio: My research interests include cartography/GIScience, spatial cognition, visual attention and cognitive science.
 
 # Interests to show in About widget
-interests:
-  - Cartography and GIScience
-  - Spatial Cognition
-  - Human Navigation Behavior
-  - Visual Attention
-  - Cognitive Load
+#interests:
+  #- Cartography and GIScience
+  #- Spatial Cognition
+  #- Human Navigation Behavior
+  #- Visual Attention
+  #- Cognitive Load
 
 # Education to show in About widget
 education:
